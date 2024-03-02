@@ -1,4 +1,4 @@
-package com.stechoq.quiz3
+package com.stechoq.quiz3.ui
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
@@ -7,6 +7,7 @@ import android.util.Patterns
 import android.view.View
 import android.widget.Toast
 import com.google.firebase.auth.FirebaseAuth
+import com.stechoq.quiz3.MainActivity
 import com.stechoq.quiz3.databinding.ActivityRegisterBinding
 
 class RegisterActivity : AppCompatActivity() {

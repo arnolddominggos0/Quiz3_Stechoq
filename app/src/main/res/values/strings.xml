@@ -12,4 +12,5 @@
     <string name="already_have_an_account">Already have an account?</string>
     <string name="dont_have_an_account">Dont have an Account?</string>
     <string name="reset_password">Reset Password</string>
+    <string name="koneksi_error">Koneksi Error.</string>
 </resources>

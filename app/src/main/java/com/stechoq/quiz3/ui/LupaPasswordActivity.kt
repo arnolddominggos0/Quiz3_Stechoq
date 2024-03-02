@@ -1,4 +1,4 @@
-package com.stechoq.quiz3
+package com.stechoq.quiz3.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle

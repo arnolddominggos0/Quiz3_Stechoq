@@ -1,4 +1,4 @@
-package com.stechoq.quiz3
+package com.stechoq.quiz3.ui
 
 import android.content.Intent
 import android.os.Bundle
@@ -7,6 +7,8 @@ import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
 import com.google.firebase.auth.FirebaseAuth
 import com.google.firebase.auth.FirebaseUser
+import com.stechoq.quiz3.MainActivity
+import com.stechoq.quiz3.R
 import com.stechoq.quiz3.databinding.ActivityLoginBinding
 
 class LoginActivity : AppCompatActivity() {
