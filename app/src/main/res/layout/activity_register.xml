@@ -21,6 +21,7 @@
         android:id="@+id/imageViewLogo"
         android:layout_width="233dp"
         android:layout_height="184dp"
+        android:layout_marginTop="8dp"
         android:src="@drawable/baseline_person_24"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
