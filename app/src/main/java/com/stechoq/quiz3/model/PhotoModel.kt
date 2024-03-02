@@ -7,3 +7,6 @@ data class PhotoModel(
     val url: String,
     val thumbnailUrl: String
 )
+
+
+
